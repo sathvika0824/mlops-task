@@ -1,0 +1,30 @@
+2026-05-01 14:54:20,259 - INFO - Job started at 2026-05-01 14:54:20.258857
+2026-05-01 14:54:20,262 - INFO - Config loaded — seed=42, window=5, version=v1
+2026-05-01 14:54:20,267 - ERROR - Job failed: Input file not found: data.csv
+2026-05-01 14:56:49,624 - INFO - Job started at 2026-05-01 14:56:49.624213
+2026-05-01 14:56:49,625 - INFO - Config loaded — seed=42, window=5, version=v1
+2026-05-01 14:56:49,628 - ERROR - Job failed: Input file not found: data.csv
+2026-05-01 15:00:10,911 - INFO - Job started at 2026-05-01 15:00:10.911721
+2026-05-01 15:00:10,919 - INFO - Config loaded — seed=42, window=5, version=v1
+2026-05-01 15:00:11,069 - ERROR - Job failed: Missing required column: close
+2026-05-01 15:12:50,091 - INFO - Job started at 2026-05-01 15:12:50.091597
+2026-05-01 15:12:50,093 - INFO - Config loaded — seed=42, window=5, version=v1
+2026-05-01 15:12:50,149 - INFO - Rows loaded: 10000
+2026-05-01 15:12:50,159 - INFO - Rolling mean computed with window=5
+2026-05-01 15:12:50,178 - INFO - Signal generated
+2026-05-01 15:12:50,180 - INFO - Metrics: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': nan, 'latency_ms': 87, 'seed': 42, 'status': 'success'}
+2026-05-01 15:12:50,181 - INFO - Job completed successfully at 2026-05-01 15:12:50.180949
+2026-05-01 15:15:37,867 - INFO - Job started at 2026-05-01 15:15:37.867567
+2026-05-01 15:15:37,869 - INFO - Config loaded — seed=42, window=5, version=v1
+2026-05-01 15:15:37,916 - INFO - Rows loaded: 10000
+2026-05-01 15:15:37,919 - INFO - Rolling mean computed with window=5
+2026-05-01 15:15:37,927 - INFO - Signal generated
+2026-05-01 15:15:37,931 - INFO - Metrics: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': nan, 'latency_ms': 61, 'seed': 42, 'status': 'success'}
+2026-05-01 15:15:37,932 - INFO - Job completed successfully at 2026-05-01 15:15:37.932302
+2026-05-01 15:26:10,888 - INFO - Job started at 2026-05-01 15:26:10.887973
+2026-05-01 15:26:10,889 - INFO - Config loaded — seed=42, window=5, version=v1
+2026-05-01 15:26:10,935 - INFO - Rows loaded: 10000
+2026-05-01 15:26:10,939 - INFO - Rolling mean computed with window=5
+2026-05-01 15:26:11,029 - INFO - Signal generated
+2026-05-01 15:26:11,063 - INFO - Metrics: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4991, 'latency_ms': 174, 'seed': 42, 'status': 'success'}
+2026-05-01 15:26:11,066 - INFO - Job completed successfully at 2026-05-01 15:26:11.066177
